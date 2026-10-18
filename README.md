@@ -1,88 +1,42 @@
-
 # Hi, I'm Tarek 👋
 
 **B.Sc. Applied Computer Science | Software Development | Python & AI**
 
-I'm an Applied Computer Science graduate interested in developing practical software solutions.
+I'm an Applied Computer Science graduate interested in building practical software solutions.
 
-My projects focus on full-stack applications, Python backend development, AI and Retrieval-Augmented Generation (RAG), web technologies, and embedded systems.
-
-I enjoy exploring new technologies, building applications, and turning ideas into working prototypes.
+My projects cover full-stack development, Python backend systems, AI and Retrieval-Augmented Generation (RAG), web technologies, and embedded systems.
 
 ## 🚀 Featured Projects
 
-### ⏱️ Time2Focus — Full-Stack Productivity App
+### ⏱️ [Time2Focus](https://github.com/waistarek/Pomodoro-Timer)
+A full-stack productivity application featuring a Pomodoro timer, task management, authentication, and productivity statistics.
 
-A Flutter Web application with a Python FastAPI backend, featuring a Pomodoro timer, task management, authentication, and productivity statistics.
+**Flutter · Dart · Python · FastAPI · SQLAlchemy**
 
-**Tech:** Flutter, Dart, Python, FastAPI, SQLAlchemy
+[Live Application](https://time2focus.app/)
 
-[GitHub Repository](https://github.com/waistarek/Pomodoro-Timer) · [Live Application](https://time2focus.app/)
+### 🌐 [Lichtblick](https://github.com/waistarek/lichtblick)
+A social media prototype featuring authentication, post management, and a web-based interface.
 
-### 🌐 Lichtblick — Social Media Prototype
+**Python · FastAPI · Streamlit · SQLAlchemy · SQLite**
 
-A social media application prototype built with FastAPI and Streamlit, featuring user authentication and post management.
+### 🧠 [RAG PDF Question Answering](https://github.com/waistarek/APP_Using_RAG_01)
+An event-driven PDF question-answering prototype using semantic retrieval and Google Gemini.
 
-**Tech:** Python, FastAPI, Streamlit, SQLAlchemy, SQLite
-
-[GitHub Repository](https://github.com/waistarek/lichtblick)
-
-### 🧠 RAG PDF Question Answering
-
-An event-driven Retrieval-Augmented Generation prototype for answering questions about PDF documents using semantic search and Google Gemini.
-
-**Tech:** Python, FastAPI, Inngest, Gemini, Qdrant, Streamlit
-
-[GitHub Repository](https://github.com/waistarek/APP_Using_RAG_01)
-
-### 🤖 Local RAG — Ollama & Chroma
-
-An experimental local RAG pipeline for answering questions about restaurant reviews using locally hosted language models and vector retrieval.
-
-**Tech:** Python, LangChain, Ollama, Llama 3.2, Chroma
-
-[GitHub Repository](https://github.com/waistarek/Local_AI_Agent_01)
-
-### 🎵 Feel the Music — Arduino Prototype
-
-An interactive hardware project combining MP3 playback, synchronized LED lighting, and haptic feedback using Python-generated audio mappings.
-
-**Tech:** Arduino, C++, Python, NeoPixel, Librosa
-
-[GitHub Repository](https://github.com/waistarek/feel-the-music-arduino) · [Hardware Demo](https://waistarek.github.io/feel-the-music-arduino/)
-
-### 🛒 Angular Storefront Prototype
-
-An Angular e-commerce frontend prototype exploring component-based development, product presentation, and reactive shopping cart state.
-
-**Tech:** Angular, TypeScript, Angular Material, Tailwind CSS, RxJS
-
-[GitHub Repository](https://github.com/waistarek/Webshop_Angular_NodeJS_TypeScript_Stripe)
+**Python · FastAPI · Inngest · Gemini · Qdrant**
 
 ## 🛠️ Technologies Used in My Projects
 
-**Programming Languages**
+**Languages:** Python · TypeScript · JavaScript · Dart · C++
 
-Python · TypeScript · JavaScript · Dart · C++
+**Frameworks:** FastAPI · Flutter · Angular · Streamlit
 
-**Backend & Web Development**
+**AI & Data:** LangChain · Gemini · Ollama · Qdrant · Chroma
 
-FastAPI · Flutter · Angular · Streamlit · SQLAlchemy
+**Tools:** Git · GitHub Actions · Docker
 
-**AI & Data**
+## 🔗 Explore My Work
 
-LangChain · LlamaIndex · Google Gemini · Ollama · Qdrant · Chroma
+Explore my pinned repositories below for additional projects involving local AI, embedded systems, Arduino, and Angular development.
 
-**Developer Tools**
-
-Git · GitHub Actions · Docker · REST APIs
-
-## 🔍 More Projects
-
-My repositories also include experiments and learning projects involving AI agents, website crawling, automation, and Python programming.
-
-[Explore All Repositories](https://github.com/waistarek?tab=repositories)
-
----
-
-**Thanks for visiting my GitHub profile!**
+[**View All Repositories →**](https://github.com/waistarek?tab=repositories)
